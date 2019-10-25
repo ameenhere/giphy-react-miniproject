@@ -1,2 +1,2 @@
 # giphy-react-miniproject
-A sample react mini project using Giphy apis
+A sample react mini project using Giphys apis
